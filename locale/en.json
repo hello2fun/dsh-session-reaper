@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Session reaper",
+    "description": "Manage sessions from the sidebar: move them to a recoverable trash, purge them, and reclaim the images they referenced.",
+    "detail": "docs/DETAIL.md"
+  }
+}
